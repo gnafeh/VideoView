@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoView</string>
+    <string name="str_video_view_warning">未找到演示视频，请确认将其放在根目录Movies文件夹下！</string>
+</resources>
